@@ -19,8 +19,6 @@ git clone https://github.com/jahu532/claude.git
 cd claude/claude-game
 ```
 
-The repository is private, so you need to be logged in to GitHub (for example with `gh auth login`) to clone it.
-
 ### 2. Start the game
 
 **Linux / macOS**
